@@ -1,4 +1,4 @@
-# SEEDInterpretor
+# SEEDInspector
 
 ## Overview
 SEEDInterpretor is dedicated to interpreting popular software engineering datasets, especially the ones released on Hugging Face. Our goal is to collaboratively analyze this rich dataset, extracting meaningful insights and contributing to the broader software engineering community.
